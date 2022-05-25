@@ -1,0 +1,6 @@
+# Ruta de los shipshorts
+PATH SHIPSHORTS = C:\Users\Usuario\Downloads\Desktop\Viernes 13\Shipshorts ABB
+# Ruta de los empowers
+PATH EMPOWERS = C:\Users\Usuario\Downloads\Desktop\Viernes 13\Empowers ABB
+# Ruta de la base de datos
+PATH DATA BASE = C:\Users\Usuario\Downloads\Desktop\Viernes 13
